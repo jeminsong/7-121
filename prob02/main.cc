@@ -52,5 +52,5 @@ int main() {
     std::cout << prompt;
     std::getline(std::cin, input);
   }
-  return 0;
+  return 2;
 }
